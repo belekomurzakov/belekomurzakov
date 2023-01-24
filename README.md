@@ -1,4 +1,46 @@
-<table>
+### 🏅 Certifications
+<p align="center">
+   <a href="https://trailhead.salesforce.com/en/credentials/verification/">   
+   <img src="https://user-images.githubusercontent.com/123120438/214281411-223996d7-d872-4d6a-83f2-6181d09a74b6.png" alt="admin" width="100"/>
+   </a>
+   <a href="https://trailhead.salesforce.com/en/credentials/verification/">   
+   <img src="https://user-images.githubusercontent.com/123120438/214281406-1c13fc57-4c83-4412-9254-e28970243030.png" alt="app-builder" width="100"/>
+   </a>
+   <a href="https://trailhead.salesforce.com/en/credentials/verification/">   
+   <img src="https://user-images.githubusercontent.com/123120438/214281425-b56a182b-a9d7-483d-8b3f-8e8abea2bee2.png" alt="pd1" width="100"/>
+   </a>
+   <a href="https://trailhead.salesforce.com/en/credentials/verification/">      
+   <img src="https://user-images.githubusercontent.com/123120438/214281402-973309d3-6a27-49d2-929a-8d275c5b70f5.png" alt="advance-admin" width="100"/>
+   </a>
+   <a href="https://trailhead.salesforce.com/en/credentials/verification/">   
+   <img src="https://user-images.githubusercontent.com/123120438/214281420-d978253b-e29c-46c4-af04-d230b45e1d01.png" alt="service" width="100"/>
+   </a>
+</p>
+
+#
+
+### 🧰 Languages and Tools
+<p align="center">
+   <img alt="Salesforce" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
+   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   <img alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+   <img alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />         
+   <img alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
+   <img alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> 
+   <img alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+   <img alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
+   <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</p>
+
+#
+
+### 🏋🏼 Projects
+<table align="center">
    <tr>
       <!-- iOS: Zero Waste -->
       <td valign="top" valign="center">
